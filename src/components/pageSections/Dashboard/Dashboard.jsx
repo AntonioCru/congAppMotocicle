@@ -1,7 +1,7 @@
-import React from "react"
+import React from 'react'
 
-import iconCheck from "../../../images/iconCheck.png"
-import "./dashboard.css"
+import iconCheck from '../../../images/iconCheck.png'
+import './dashboard.css'
 
 export default function Dashboard() {
   return (
