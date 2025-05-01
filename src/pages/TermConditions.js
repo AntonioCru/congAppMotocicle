@@ -163,7 +163,7 @@ export default function TermConditions() {
 				con la legislación mexicana. Todas las notificaciones, requerimientos,
 				peticiones y otras comunicaciones que el usuario desee efectuar a
 				PROSERAC deberán realizarse por escrito a la siguiente dirección
-				contacto@ixoevent.com.
+				contacto@proserac.com.
 			</p>
 		</div>
 	)
