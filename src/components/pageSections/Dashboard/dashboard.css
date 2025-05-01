@@ -47,6 +47,7 @@
 	display: flex;
 	justify-content: center;
 	gap: 10px;
+	margin-bottom: 1rem;
 }
 .imgC {
 	width: 1.2rem;

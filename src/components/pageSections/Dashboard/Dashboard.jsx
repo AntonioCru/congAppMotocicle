@@ -23,7 +23,7 @@ export default function Dashboard() {
 			</footer>
 			<div className='containerTermConditions'>
 				<img className='imgC' src={derRes} alt='iconCheck' />
-				<Link to='/TermConditions'>Terminos y condiciónes</Link>
+				<Link to='/TermConditions'>Terminos y Condiciónes</Link>
 			</div>
 		</>
 	)
