@@ -1,0 +1,8 @@
+
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" rx="32" fill="#7dd8b4"/>
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
+        font-size="90" font-family="Arial, sans-serif" font-weight="bold" fill="white">
+    Ps+
+  </text>
+</svg>
