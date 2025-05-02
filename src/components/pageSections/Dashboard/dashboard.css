@@ -38,9 +38,11 @@
 .containerFooter__description h1 {
 	color: var(--colorScreen);
 	margin-bottom: 3rem;
+	font-family: var(--fontDynaPuff);
 }
 .containerFooter__description p {
 	font-size: 18px;
+	font-family: var(--fontGluten);
 }
 
 .containerTermConditions {
@@ -48,6 +50,7 @@
 	justify-content: center;
 	gap: 10px;
 	margin-bottom: 1rem;
+	font-family: var(--fontGluten);
 }
 .imgC {
 	width: 1.2rem;

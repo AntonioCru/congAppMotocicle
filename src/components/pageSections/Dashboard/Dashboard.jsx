@@ -9,7 +9,7 @@ import { Link } from 'gatsby'
 
 export default function Dashboard() {
 	return (
-		<>
+		<div className='containerDashboard'>
 			<header className='headerContainer'>
 				<div className='containerIconimage'>
 					<img className='imgIcon' src={iconCheck} alt='iconCheck' />
@@ -25,6 +25,6 @@ export default function Dashboard() {
 				<img className='imgC' src={derRes} alt='iconCheck' />
 				<Link to='/TermConditions'>Terminos y Condiciónes</Link>
 			</div>
-		</>
+		</div>
 	)
 }

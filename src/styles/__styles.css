@@ -6,8 +6,15 @@
 	--colorMenuTab: #006e7d;
 	--secondIconTab: #43bdc3;
 	--firstIconTab: #00e3ee;
-}
 
-* {
-	font-family: cursive;
+	--fontBoogaloo: 'BoogalooRegular';
+	--fontCaveat: 'CaveatBrushRegular';
+	--fontChicle: 'ChicleRegular';
+
+	--fontDynaPuff: 'DynaPuffVariableFont';
+	--fontGluten: 'GlutenVariableFont';
+
+	--fontItim: 'ItimRegular';
+	--fontShantellItalic: 'ShantellSansItalic';
+	--fontShantell: 'ShantellSans';
 }

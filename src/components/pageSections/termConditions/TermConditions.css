@@ -3,6 +3,7 @@
 	height: auto;
 	padding: 2rem;
 	background-color: #b5eed8;
+	font-family: var(--fontGluten);
 }
 .titleTerm {
 	font-size: 20px;

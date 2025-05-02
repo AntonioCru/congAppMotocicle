@@ -1,0 +1,59 @@
+@font-face {
+	font-family: 'BoogalooRegular';
+	src: url('../assets/fonts/Boogaloo-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'CaveatBrushRegular';
+	src: url('../assets/fonts/CaveatBrush-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ChicleRegular';
+	src: url('../assets/fonts/Chicle-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'DynaPuffVariableFont';
+	src: url('../assets/fonts/DynaPuff-VariableFont_wdth,wght.ttf')
+		format('truetype');
+	font-weight: 100 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GlutenVariableFont';
+	src: url('../assets/fonts/Gluten-VariableFont_slnt,wght.ttf')
+		format('truetype');
+	font-weight: 100 900;
+	font-style: oblique;
+}
+
+@font-face {
+	font-family: 'ItimRegular';
+	src: url('../assets/fonts/Itim-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ShantellSansItalic';
+	src: url('../assets/fonts/ShantellSans-Italic-VariableFont_BNCE,INFM,SPAC,wght.ttf')
+		format('truetype');
+	font-weight: 100 900;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'ShantellSans';
+	src: url('../assets/fonts/ShantellSans-VariableFont_BNCE,INFM,SPAC,wght.ttf')
+		format('truetype');
+	font-weight: 100 900;
+	font-style: normal;
+}
