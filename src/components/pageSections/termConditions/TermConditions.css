@@ -2,6 +2,7 @@
 	width: 100vw;
 	height: auto;
 	padding: 2rem;
+	background-color: white !important;
 	font-family: var(--fontGluten);
 }
 .titleTerm {
