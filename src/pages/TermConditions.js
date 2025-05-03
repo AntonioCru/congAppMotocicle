@@ -7,7 +7,7 @@ export default function TermConditions() {
 		<div className='containerTermCond'>
 			<h1 className='titleTerm'>Términos y condiciones</h1>
 			<p>
-				PROSERAC, es una applicación que muestra la ubicación de tiendas y/o
+				PROSERAC, es una aplicación que muestra la ubicación de tiendas y/o
 				lugares que ofrecen productos y servicios. PROSERAC únicamente muestra
 				contenidos ofrecidos por usuarios registrados llamados proveedores, por
 				lo que la responsabilidad del contenido, la calidad, horarios, así como
@@ -20,10 +20,10 @@ export default function TermConditions() {
 				reglamentos aplicables de conformidad a la legislación vigente y
 				aplicable para el uso de la aplicación. <br />
 				<br />
-				PROCERAC se reserva el derecho de modificar en el momento que lo
+				PROSERAC se reserva el derecho de modificar en el momento que lo
 				considere necesario, estos términos y condiciones, siendo aplicables de
 				manera inmediata después de que hayan sido publicadas. En caso de violar
-				parcial o totalmente estos términos y condiciones, PROCERAC se reserva
+				parcial o totalmente estos términos y condiciones, PROSERAC se reserva
 				el derecho de cancelar tu uso de esta aplicación, excluirte para el uso
 				de futuras operaciones, tomar acciones legales que considere
 				convenientes de acuerdo con sus intereses. <br />
@@ -47,13 +47,15 @@ export default function TermConditions() {
 				método de pago son gestionados directamente por mercado pago en la cual
 				obtendrás un redireccionamiento al sitio de mercado pago.
 				<br />
+				<br />
 				El proveedor se obliga a asumir el costo por procesamiento del pago,
 				asociado al método de pago, y adicionalmente una tarifa por el servicio
 				de la plataforma o aplicación. Éstos se estipularán en estos Términos y
 				Condiciones, están sujetos al Aviso de privacidad que se encuentra en
 				esta misma plataforma o aplicación.
+				<br />
 				<br /> Además, PROSERAC se reserva el derecho de aumentar o disminuir el
-				precio mensual ya se por suscripción o por mes, el cual, para utilizar
+				precio mensual ya sea por suscripción o por mes, el cual, para utilizar
 				PROSERAC, es necesario pagar.
 				<br />
 				<br />
@@ -61,10 +63,11 @@ export default function TermConditions() {
 				que realice, así como de pagos y transacciones que el realice, PROSERAC
 				regirá lugares, en los que se solicita como información obligatoria: un
 				nombre, una descripción, un teléfono WhatsApp, un correo electrónico y
-				la locación, de forma opcional se solicita un alias y una dirección, por
-				lo que el proveedor se hace responsable del uso que se le dé a dicha
+				la localización, de forma opcional se solicita un alias y una dirección,
+				por lo que el proveedor se hace responsable del uso que se le dé a dicha
 				información y está en total acuerdo en deslindar a PROSERAC por el mal
 				uso que se obtenga o se realice de esta información.
+				<br />
 				<br />
 				Al registrar productos que brinda el proveedor, se requiere información
 				obligatoria que son: un nombre, una descripción, un precio y una
@@ -107,9 +110,11 @@ export default function TermConditions() {
 				Con el único propósito de ofrecer una plataforma o aplicación de
 				calidad, PROSERAC realiza de forma periódica tareas de mantenimiento.
 				<br />
+				<br />
 				Aunque hacemos todo lo posible para evitar que los clientes se vean
 				afectados, el sitio o nuestros servicios pueden estar temporalmente no
 				disponibles durante los períodos de mantenimiento. <br />
+				<br />
 				El uso No Autorizado del Sitio, cualquier uso ilegal o no autorizado de
 				esta plataforma o aplicación, constituye una violación de estos Términos
 				y Condiciones. El uso no autorizado de cualquier robot, rastreador o
@@ -117,6 +122,7 @@ export default function TermConditions() {
 				estos Términos y Condiciones, incluyendo el uso no autorizado del sitio,
 				podrán ser investigadas y se pueden tomar acciones legales necesarias,
 				incluyendo más no limitándose acciones civiles, penales y cautelares.
+				<br />
 				<br />
 				Serás responsable de indemnizar todos los gastos en los que PROSERAC
 				pudiera incurrir por el uso ilegal o no autorizado de esta plataforma o
@@ -138,6 +144,7 @@ export default function TermConditions() {
 				paz, Cláusula de Exención de Responsabilidades Como Usuario, entiendes y
 				estás de acuerdo en que estás haciendo uso de la plataforma o aplicación
 				y de los servicios “tal cual” y “tal como están disponibles”. <br />
+				<br />
 				PROSERAC no se obliga a que el sitio esté libre de errores, que no
 				contendrá interrupciones, o que proporcione resultados específicos por
 				el uso de la plataforma o aplicación o por cualquier contenido, búsqueda
@@ -145,12 +152,14 @@ export default function TermConditions() {
 				PROSERAC no puede asegurar que los archivos que descargue del sitio
 				estarán libres de virus o de contaminación o de características
 				destructivas. <br />
+				<br />
 				PROSERAC se libera, en la máxima medida permitida por ley, de toda
 				responsabilidad de garantías, no será responsable por ningún daño de
 				cualquier tipo que surja del uso de esta plataforma o aplicación,
 				incluyendo sin limitación, daños directos, indirectos, incidentales,
 				punitivos y consecuenciales o por tu compra y/o asistencia y/o
 				participación en compras presenciales. <br />
+				<br />
 				PROSERAC se libera de cualquier y toda responsabilidad por cualquier
 				hecho, omisión y conducta por parte de cualquier Usuario de la
 				plataforma o aplicación, anunciantes y/o patrocinadores del sitio, en
