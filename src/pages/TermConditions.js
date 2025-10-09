@@ -7,8 +7,8 @@ export default function TermConditions() {
 		<div className='containerTermCond'>
 			<h1 className='titleTerm'>Términos y condiciones</h1>
 			<p>
-				PROSERAC, es una aplicación que muestra la ubicación de tiendas y/o
-				lugares que ofrecen productos y servicios. PROSERAC únicamente muestra
+				PROSERAS, es una aplicación que muestra la ubicación de tiendas y/o
+				lugares que ofrecen productos y servicios. PROSERAS únicamente muestra
 				contenidos ofrecidos por usuarios registrados llamados proveedores, por
 				lo que la responsabilidad del contenido, la calidad, horarios, así como
 				de los actos y consecuencias que dicha publicación pudiera tener, es del
@@ -20,10 +20,10 @@ export default function TermConditions() {
 				reglamentos aplicables de conformidad a la legislación vigente y
 				aplicable para el uso de la aplicación. <br />
 				<br />
-				PROSERAC se reserva el derecho de modificar en el momento que lo
+				PROSERAS se reserva el derecho de modificar en el momento que lo
 				considere necesario, estos términos y condiciones, siendo aplicables de
 				manera inmediata después de que hayan sido publicadas. En caso de violar
-				parcial o totalmente estos términos y condiciones, PROSERAC se reserva
+				parcial o totalmente estos términos y condiciones, PROSERAS se reserva
 				el derecho de cancelar tu uso de esta aplicación, excluirte para el uso
 				de futuras operaciones, tomar acciones legales que considere
 				convenientes de acuerdo con sus intereses. <br />
@@ -37,7 +37,7 @@ export default function TermConditions() {
 				<br />
 				Como Cliente, estoy obligado a respetar al proveedor en todos los
 				aspectos, respetar sus tarifas y la información proporcionada en
-				PROSERAC.
+				PROSERAS.
 				<br />
 				<br />
 				Como proveedor: <br />
@@ -54,29 +54,29 @@ export default function TermConditions() {
 				Condiciones, están sujetos al Aviso de privacidad que se encuentra en
 				esta misma plataforma o aplicación.
 				<br />
-				<br /> Además, PROSERAC se reserva el derecho de aumentar o disminuir el
+				<br /> Además, PROSERAS se reserva el derecho de aumentar o disminuir el
 				precio mensual ya sea por suscripción o por mes, el cual, para utilizar
-				PROSERAC, es necesario pagar.
+				PROSERAS, es necesario pagar.
 				<br />
 				<br />
 				Cuando el proveedor inicie sesión, será responsable de las publicaciones
-				que realice, así como de pagos y transacciones que el realice, PROSERAC
+				que realice, así como de pagos y transacciones que el realice, PROSERAS
 				regirá lugares, en los que se solicita como información obligatoria: un
 				nombre, una descripción, un teléfono WhatsApp, un correo electrónico y
 				la localización, de forma opcional se solicita un alias y una dirección,
 				por lo que el proveedor se hace responsable del uso que se le dé a dicha
-				información y está en total acuerdo en deslindar a PROSERAC por el mal
+				información y está en total acuerdo en deslindar a PROSERAS por el mal
 				uso que se obtenga o se realice de esta información.
 				<br />
 				<br />
 				Al registrar productos que brinda el proveedor, se requiere información
 				obligatoria que son: un nombre, una descripción, un precio y una
 				categoría y de forma opcional se solicita un alias y registrar si es
-				entrega a domicilio o no. En este punto, PROSERAC es de carácter
+				entrega a domicilio o no. En este punto, PROSERAS es de carácter
 				informativo para los clientes, su uso es para dar a conocer a clientes
 				productos y servicios que el proveedor proporcione, por lo que el
 				proveedor es responsable de acudir a entrega presencial con el cliente y
-				esta en total acuerdo de no involucrar a PROSERAC por algún suceso
+				esta en total acuerdo de no involucrar a PROSERAS por algún suceso
 				delictivo ocurrido dentro de esta reunión,
 				<br />
 				<br />
@@ -84,19 +84,19 @@ export default function TermConditions() {
 				“Olvidé mi contraseña” y seguir todos los pasos que se indican.
 				<br />
 				<br />
-				PROSERAC podrá proporcionar la información a las autoridades si así lo
+				PROSERAS podrá proporcionar la información a las autoridades si así lo
 				requirieran para ayudar en cualquier investigación o proceso que
-				pudieran llevar a cabo. PROSERAC se reserva el derecho de negar el uso
+				pudieran llevar a cabo. PROSERAS se reserva el derecho de negar el uso
 				de la plataforma o aplicación si detectará alguna inconsistencia en la
 				información proporcionada. <br />
 				<br />
-				PROSERAC mostrará la información de los proveedores; lugares, productos
+				PROSERAS mostrará la información de los proveedores; lugares, productos
 				y servicios, el cliente tiene a disposición dicha información para
-				adquirir estos productos o servicios. PROSERAC no se hace responsable de
+				adquirir estos productos o servicios. PROSERAS no se hace responsable de
 				transacciones, ya que el pago de esto será entre cliente proveedor sin
-				previo aviso y sin responsabilidad para PROSERAC, en virtud de lo
+				previo aviso y sin responsabilidad para PROSERAS, en virtud de lo
 				anterior, expresamente aceptas y reconoces dicho acuerdo. Cabe mencionar
-				que PROSERAC, no proporcionará, por ningún motivo, compensación por
+				que PROSERAS, no proporcionará, por ningún motivo, compensación por
 				actos delictivos o de cualquier índole que afecten a las partes
 				involucradas.
 				<br />
@@ -104,11 +104,11 @@ export default function TermConditions() {
 				Disponibilidad de la Plataforma
 				<br />
 				<br />
-				PROSERAC se reserva el derecho de modificar o interrumpir, en cualquier
+				PROSERAS se reserva el derecho de modificar o interrumpir, en cualquier
 				momento y de manera temporal o permanente, el sitio, los servicios o
 				cualquier parte del sitio, con o sin notificación, por cualquier motivo.
 				Con el único propósito de ofrecer una plataforma o aplicación de
-				calidad, PROSERAC realiza de forma periódica tareas de mantenimiento.
+				calidad, PROSERAS realiza de forma periódica tareas de mantenimiento.
 				<br />
 				<br />
 				Aunque hacemos todo lo posible para evitar que los clientes se vean
@@ -124,7 +124,7 @@ export default function TermConditions() {
 				incluyendo más no limitándose acciones civiles, penales y cautelares.
 				<br />
 				<br />
-				Serás responsable de indemnizar todos los gastos en los que PROSERAC
+				Serás responsable de indemnizar todos los gastos en los que PROSERAS
 				pudiera incurrir por el uso ilegal o no autorizado de esta plataforma o
 				aplicación.
 				<br />
@@ -145,25 +145,25 @@ export default function TermConditions() {
 				estás de acuerdo en que estás haciendo uso de la plataforma o aplicación
 				y de los servicios “tal cual” y “tal como están disponibles”. <br />
 				<br />
-				PROSERAC no se obliga a que el sitio esté libre de errores, que no
+				PROSERAS no se obliga a que el sitio esté libre de errores, que no
 				contendrá interrupciones, o que proporcione resultados específicos por
 				el uso de la plataforma o aplicación o por cualquier contenido, búsqueda
 				o enlace en el sitio. <br />
-				PROSERAC no puede asegurar que los archivos que descargue del sitio
+				PROSERAS no puede asegurar que los archivos que descargue del sitio
 				estarán libres de virus o de contaminación o de características
 				destructivas. <br />
 				<br />
-				PROSERAC se libera, en la máxima medida permitida por ley, de toda
+				PROSERAS se libera, en la máxima medida permitida por ley, de toda
 				responsabilidad de garantías, no será responsable por ningún daño de
 				cualquier tipo que surja del uso de esta plataforma o aplicación,
 				incluyendo sin limitación, daños directos, indirectos, incidentales,
 				punitivos y consecuenciales o por tu compra y/o asistencia y/o
 				participación en compras presenciales. <br />
 				<br />
-				PROSERAC se libera de cualquier y toda responsabilidad por cualquier
+				PROSERAS se libera de cualquier y toda responsabilidad por cualquier
 				hecho, omisión y conducta por parte de cualquier Usuario de la
 				plataforma o aplicación, anunciantes y/o patrocinadores del sitio, en
-				conexión con el servicio de PROSERAC o de cualquier otra forma
+				conexión con el servicio de PROSERAS o de cualquier otra forma
 				relacionada con su uso de la plataforma o aplicación. <br />
 				<br />
 				Legislación aplicable y notificaciones
@@ -171,8 +171,8 @@ export default function TermConditions() {
 				<br /> Las presentes condiciones se rigen y se interpretan de acuerdo
 				con la legislación mexicana. Todas las notificaciones, requerimientos,
 				peticiones y otras comunicaciones que el usuario desee efectuar a
-				PROSERAC deberán realizarse por escrito a la siguiente dirección
-				contacto@proserac.com.
+				PROSERAS deberán realizarse por escrito a la siguiente dirección
+				contacto@PROSERAS.com.
 			</p>
 		</div>
 	)
