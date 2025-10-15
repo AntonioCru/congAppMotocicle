@@ -6,7 +6,14 @@ export default function PrivacyNotice() {
 			<h1 className='titleTerm'>Aviso de Privacidad — Proseras</h1>
 			<p>
 				Última actualización: 15 de octubre de 2025
-				<br /> Dominio oficial: https://proseras.com.mx
+				<br /> Dominio oficial:{' '}
+				<a
+					href='https://proseras.com.mx'
+					target='_blank'
+					rel='noreferrer'
+					style={{ textDecoration: 'none' }}>
+					https://proseras.com.mx
+				</a>
 				<br />
 				<br />
 				<br /> 1. Información que recopilamos
@@ -43,14 +50,15 @@ export default function PrivacyNotice() {
 				de forma segura. Cuando realizas un pago, serás redirigido a una página
 				externa gestionada por Mercado Pago, donde se aplican sus propias
 				políticas de privacidad. Proseras no almacena datos de tarjetas,
-				contraseñas ni información financiera. Consulta la política de
-				privacidad de Mercado Pago aquí:&nbsp;
+				contraseñas ni información financiera. Consulta la{' '}
 				<a
 					href='https://www.mercadopago.com.mx/privacidad'
 					target='_blank'
-					rel='noreferrer'>
-					https://www.mercadopago.com.mx/privacidad
+					rel='noreferrer'
+					style={{ textDecoration: 'none' }}>
+					política de privacidad&nbsp;
 				</a>
+				de Mercado Pago.
 				<br />
 				<br />
 				<br />
