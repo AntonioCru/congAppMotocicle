@@ -1,0 +1,14 @@
+.containerTermCond {
+	width: 100vw;
+	height: auto;
+	padding: 2rem;
+	background-color: white !important;
+	font-family: var(--fontGluten);
+}
+.titleTerm {
+	font-size: 20px;
+}
+.containerTermCond p {
+	margin-top: 1rem;
+	text-align: justify;
+}

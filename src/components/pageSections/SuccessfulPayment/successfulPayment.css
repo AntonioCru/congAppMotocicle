@@ -1,0 +1,59 @@
+@import url('../../../styles/__styles.css');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.headerContainer {
+	background-color: var(--colorScreen);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 50dvh;
+}
+.containerIconimage {
+	background-color: var(--colorScreen);
+	border-radius: 50%;
+	padding: 8%;
+}
+.imgIcon {
+	width: 50dvw;
+	height: 22dvh;
+	padding-bottom: 15px;
+}
+
+.containerFooter {
+	width: 100%;
+	height: 50dvh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: safe;
+	text-align: center;
+	padding: 0 10%;
+}
+.containerFooter__description h1 {
+	color: var(--colorScreen);
+	margin-bottom: 3rem;
+	font-family: var(--fontDynaPuff);
+}
+.containerFooter__description p {
+	font-size: 18px;
+	font-family: var(--fontGluten);
+}
+
+.containerTermConditions {
+	display: flex;
+	justify-content: center;
+	gap: 10px;
+	margin-bottom: 1rem;
+	font-family: var(--fontGluten);
+}
+.imgC {
+	width: 1.2rem;
+	height: 1.2rem;
+	margin-bottom: 0.5rem;
+}
